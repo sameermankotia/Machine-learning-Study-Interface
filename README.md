@@ -25,7 +25,7 @@ You can install the required libraries using pip:
 
 ```bash
 pip install streamlit pandas numpy matplotlib scikit-learn
-
+```
 #Usage
 To run the Streamlit application, navigate to the project directory and run the following command:
 ```
