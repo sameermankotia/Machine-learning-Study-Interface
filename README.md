@@ -28,12 +28,12 @@ pip install streamlit pandas numpy matplotlib scikit-learn
 
 #Usage
 To run the Streamlit application, navigate to the project directory and run the following command:
-"
+```
 streamlit run app.py
-"
+```
 This will open the application in your default web browser.
 
-#Contributing
+##Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update the tests as appropriate.
